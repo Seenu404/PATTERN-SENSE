@@ -11,7 +11,6 @@ PATTERN-SENSE is a machine learning project focused on pattern recognition and d
 ## Prerequisites
 - Python 3.8+
 - Git
-- [Optional: Add specific hardware/software requirements, e.g., GPU for deep learning]
 
 ## Installation
 1. Clone the repository:
@@ -34,10 +33,6 @@ PATTERN-SENSE is a machine learning project focused on pattern recognition and d
 2. Run the main script:
    ```bash
    python main.py
-   ```
-3. Example output:
-   ```
-   [Describe expected output or results, e.g., "Generates a classification model with 95% accuracy."]
    ```
 
 ## Project Structure
