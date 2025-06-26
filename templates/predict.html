@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pattern Sense - Predict</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+    <a class="navbar-brand" href="/">PATTERN SENSE</a>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="/">HOME</a></li>
+            <li class="nav-item"><a class="nav-link" href="/about">ABOUT</a></li>
+            <li class="nav-item"><a class="nav-link" href="/contact">CONTACT</a></li>
+            <li class="nav-item"><a class="nav-link" href="/predict_page">GET STARTED</a></li>
+        </ul>
+    </div>
+    </nav>
+
+
+    <div class="container text-center my-5">
+        <h2 class="mb-4">Image Classification</h2>
+        <form action="/predict" method="POST" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="ump_image" class="form-label">Upload Your Image:</label>
+                <input class="form-control w-50 mx-auto" type="file" id="ump_image" name="ump_image" required>
+            </div>
+            <button type="submit" class="btn btn-dark btn-lg">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
