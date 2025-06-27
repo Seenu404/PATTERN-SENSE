@@ -5,7 +5,11 @@
 
 - **Project Title:** Pattern Sense  
 - **Team Members:**  
-  - A. Chinna Seenu – Developer, Model Trainer, Web Integrator
+  - A. Chinna Seenu
+  - G. Madhavi
+  - P. Ganga Lakshmi
+  - K. Blessy Sterlin
+  - Bhanu Priya
 
 ## 2. Project Overview
 
@@ -132,12 +136,9 @@ PATTERN-SENSE/
 
 ## 11. Screenshots or Demo
 
-- Add screenshots of:
-  - Homepage
-  - Upload image form
-  - Result page
+  ![Project1](https://github.com/user-attachments/assets/17bf57dd-4f20-44a9-b874-b722a7941291)
 
-- *(Optional)* Deploy the site and include a link
+-Demo Link : https://youtu.be/5Il8xABnexY?si=QE5-rmCR7C_D-HOe
 
 ## 12. Known Issues
 
